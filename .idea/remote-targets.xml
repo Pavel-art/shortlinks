@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="postgres" type="docker-compose" uuid="db96a4cc-df2e-449d-a591-06657947f8d6">
+        <config>
+          <option name="targetPlatform">
+            <TargetPlatform />
+          </option>
+          <option name="configurationFiles">
+            <list>
+              <option value="C:\Users\Pole\GolandProjects\shortlinks\docker-compose.yml" />
+            </list>
+          </option>
+          <option name="projectName" value="shortlinks" />
+          <option name="serviceName" value="postgres" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
